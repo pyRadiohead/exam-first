@@ -950,12 +950,12 @@ select:focus {
   display: -ms-flexbox;
   display: flex;
   list-style: none; }
-  .ba-navigation ul a {
+  .ba-navigation ul li {
     font-size: 14px;
     color: #ffffff;
     font-family: "Aleo";
     text-transform: uppercase; }
-  .ba-navigation ul a + a {
+  .ba-navigation ul li + li {
     margin-left: 54px; }
 
 .ba-scroll-down {
