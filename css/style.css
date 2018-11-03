@@ -950,7 +950,7 @@ select:focus {
   display: -ms-flexbox;
   display: flex;
   list-style: none; }
-  .ba-navigation ul li {
+  .ba-navigation ul li a {
     font-size: 14px;
     color: #ffffff;
     font-family: "Aleo";
